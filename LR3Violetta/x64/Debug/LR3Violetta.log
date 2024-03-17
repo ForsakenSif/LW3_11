@@ -1,0 +1,5 @@
+﻿  LR3Violetta.cpp
+E:\game2\С++\LR3Violetta\LR3Violetta\LR3Violetta.cpp(7,34): warning C4305: аргумент: усечение из "double" в "float"
+E:\game2\С++\LR3Violetta\LR3Violetta\LR3Violetta.cpp(8,28): warning C4305: аргумент: усечение из "double" в "float"
+E:\game2\С++\LR3Violetta\LR3Violetta\LR3Violetta.cpp(9,28): warning C4305: аргумент: усечение из "double" в "float"
+  LR3Violetta.vcxproj -> E:\game2\С++\LR3Violetta\x64\Debug\LR3Violetta.exe
